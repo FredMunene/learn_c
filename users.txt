@@ -1,8 +1,0 @@
-0 Alice q1w2e3r4t5y6
-1 Michel q1w2e3r4t5y6
-0 Fred Fred
-7Fred Munene
-6 Fred Munene
-67 Gitonga 7658
-45 Gitosh 7854
-76 Freddie juhmo
